@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexandrabarnard
-- 🌱 I’m currently improving my Python alongside working on IoT projects.
+
 
 
 <!---
